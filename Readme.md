@@ -21,6 +21,7 @@
 * CSS
 * JavaScript (Beginner)
 * Git & GitHub
+* c
 
 📊 Other Skills
 
