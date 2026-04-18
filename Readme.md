@@ -43,6 +43,7 @@
 * Advanced Git & GitHub
 * Frontend Development
 * Real-world Project Building
+* Working on ecommerce website 
 
 ---
 
